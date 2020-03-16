@@ -2,14 +2,14 @@
 title: Operation Finish Line
 draft: false
 author: admin
-date: 16-03-20
+date: 2020-03-16
 slug: operation-finish-line
 categories: [PhD]
 tags: [PhD]
 subtitle: ''
 summary: ''
 authors: []
-lastmod:
+lastmod: 2020-03-16
 featured: no
 diagram: true
 image: 
