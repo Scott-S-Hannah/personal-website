@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-03-01"
   date_end = ""
-  description = "A 5-day course on molecular cell biology techniques, inlcuing; RNA/DNA isolation, reverse-transcription, polymerase chain reaction (PCR), ligation, bacterial transformation, restriction enzyme digestion, transfection, protein silencing using siRNA and Western blotting"
+  description = "A 5-day course on molecular cell biology techniques, including; RNA/DNA isolation, reverse-transcription, polymerase chain reaction (PCR), ligation, bacterial transformation, restriction enzyme digestion, transfection, protein silencing using siRNA and Western blotting"
 
 [[item]]
   organization = "The Physiological Society"
