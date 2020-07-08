@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities included:
   
-  * Module Co-ordinataion
+  * Module Co-ordination
   * Lecturing
   * Assessing
   * Ethical Committee Member

@@ -43,4 +43,4 @@ user_groups:
 - Visitors
 ---
 
-Scott Hannah is a final year PhD researcher at Ulster University. His research interests include exercise and bone metabolism, environmental physiology and statistics. He is currently investigating how different exercise intensities and envrionmental stressors influence bone metabolism.
+Scott Hannah is a final year PhD researcher at Ulster University. His research interests include exercise and bone metabolism, environmental physiology and statistics. He is currently investigating how different exercise intensities and environmental stressors influence bone metabolism.
