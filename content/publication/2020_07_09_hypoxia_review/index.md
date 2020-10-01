@@ -11,7 +11,7 @@ doi: "10.1002/jcp.29921"
 featured: true
 image:
   caption: 'Image credit: [**Scott Hannah**]'
-  focal_point: ""
+  focal_point: "center"
   preview_only: false
 
 projects:
