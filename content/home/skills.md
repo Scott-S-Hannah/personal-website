@@ -29,18 +29,8 @@ subtitle = ""
 [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
-  name = "Lecturing"
+  name = "Teaching"
   description = "" 
   
-  [[feature]]
-  icon = "flushed"
-  icon_pack = "fas"
-  name = "Existentialism"
-  description = "" 
-  
-  [[feature]]
-  icon = "user-secret"
-  icon_pack = "fas"
-  name = "Espionage"
-  description = "" 
+
 +++
