@@ -13,17 +13,17 @@ education:
   - course: BSc (Hons) in Sport & Exercise Sciences
     institution: University of Suffolk
     year: 2014
-email: "hannah-s@ulster.ac.uk"
+email: "Scott.Hannah@winchester.ac.uk"
 interests:
 - Bone Physiology
 - Exercise Physiology
 - Statistics and Data Science
 - Existential Dread...
-name: Scott Hannah
+name: Dr. Scott Hannah
 organizations:
-- name: Ulster University
-  url: "https://www.ulster.ac.uk"
-role: PhD Researcher in Exercise and Bone Physiology
+- name: University of Winchester
+  url: ""
+role: Lecturer in Sport and Exercise Physiology
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,4 +43,6 @@ user_groups:
 - Visitors
 ---
 
-Hello and welcome to my website. My name is Scott Hannah and I am a final year PhD researcher at Ulster University. My research interests include exercise and bone metabolism, environmental physiology and statistics. I am currently investigating how exercise influences calcium and bone metabolism. I am experienced in teaching and researching physiology and exercise physiology and have worked in a variety of higher education roles, ranging from Lecturer of Physiology to Dance Science Technician. My passion for science communication, research methodologies, statistics and data science has led me to creating this website to communicate my research and other tidbits. 
+Hello, and welcome to my website! My name is Dr. Scott Hannah, and I'm a lecturer and researcher in exercise physiology at the University of Winchester. I specialise in bone and calcium metabolism, environmental physiology, and data science, and I'm passionate about using my expertise to help athletes and individuals alike achieve their goals. 
+
+ 
