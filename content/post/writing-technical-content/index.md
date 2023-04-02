@@ -27,6 +27,12 @@ Academic supports a Markdown extension for highlighting code syntax. You can ena
     data = pd.read_csv("data.csv")
     data.head()
     ```
+    
+    ```r
+    library(tidyverse)
+    ggplot(cars, aes(cyl)) +
+    geom_point()
+    ```
 
 renders as
 

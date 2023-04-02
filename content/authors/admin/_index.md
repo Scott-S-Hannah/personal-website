@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Exercise Physiology
     institution: Ulster University, Northern Ireland
-    year: ongoing
+    year: 2022
   - course: MSc in Sport & Exercise Physiology
     institution: Middlesex University, London
     year: 2015
