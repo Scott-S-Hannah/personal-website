@@ -90,11 +90,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Ulster University, Shore Road", city = "Newtownabbey", region = "Co. Antrim", postcode = "BT37 0QB", country = "Northern Ireland", country_code = "UK"}
+address = {street = "University of Winchester, Sparkford Road", city = "Winchester", region = "Hampshire", postcode = "SO22 4NR", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "54.687409", longitude = "-5.882715"}
+coordinates = {latitude = "51.060096", longitude = "-1.327700"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -124,7 +124,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "Scott_Hannah_"
+twitter = "Scott_Hannah_v2"
 
 ############################
 ## Regional Settings
