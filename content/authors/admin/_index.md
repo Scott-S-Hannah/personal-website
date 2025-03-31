@@ -22,15 +22,15 @@ interests:
 name: Dr. Scott Hannah
 organizations:
 - name: University of Winchester
-  url: ""
-role: Lecturer in Sport and Exercise Physiology
+  url: "https://www.winchester.ac.uk/About-Us/Leadership-and-governance/Staff-Directory/Staff-Profiles/Hannah.php"
+role: Senior Lecturer in Sport and Exercise Physiology
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Scott_Hannah_
+  link: https://twitter.com/Scott_Hannah_v2
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Scott_Hannah
